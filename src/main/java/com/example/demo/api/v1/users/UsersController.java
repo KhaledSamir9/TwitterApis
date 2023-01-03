@@ -35,8 +35,4 @@ public class UsersController {
 }
 
 
-// Response Entity
-// Error Handling
-// Query Parameters   ?  
-
 
